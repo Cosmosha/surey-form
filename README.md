@@ -1,2 +1,2 @@
-# surey-form
+# survey-form
 Microverse Collaborative  Project 
